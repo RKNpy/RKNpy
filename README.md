@@ -14,7 +14,7 @@
 
 
 ## 📫 Reach me:
-![https://devbio.me/u/rkn](https://media.discordapp.net/attachments/869063232655085568/887251685733445632/RKN8680_1.png?width=885&height=498)
+![https://devbio.me/u/rkn](https://media.discordapp.net/attachments/869063232655085568/887251685733445632/RKN8680_1.png?width=220&height=120)
 
 ## Languages I know:
 • 🐍 Python  
