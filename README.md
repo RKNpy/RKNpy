@@ -28,9 +28,12 @@
 
 
 
-## Git Hub Stats:
+## Stats:
 
+Github Stats:
 ![RKN's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKNpy&show_icons=true&theme=radical)
+
+Most used languages (on github):
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNpy&layout=compact)](https://github.com/RKNpy/)
 
 
