@@ -3,14 +3,14 @@
 ## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme)
 ## I am a Student, Developer!!
 
-• 🎰 I'm owner/developer of [CraftyCord](https://top.gg/bot/872418590840725504)
-• 🎊 I'm learning game game development 
-• 🎯 I'm trying to make some public projects, web templates 
-• 💼 I'm currently focusing on my youtube channel
-• 🔭 I’m currently working on GoMod
-• 🌱 I’m currently learning Game Development
-• 👯 I’m looking to collaborate on Python projects
-• ⚡ Fun fact: I am a kid
+• 🎰 I'm owner/developer of [CraftyCord](https://top.gg/bot/872418590840725504)  
+• 🎊 I'm learning game game development  
+• 🎯 I'm trying to make some public projects, web templates   
+• 💼 I'm currently focusing on my youtube channel  
+• 🔭 I’m currently working on GoMod  
+• 🌱 I’m currently learning Game Development  
+• 👯 I’m looking to collaborate on Python projects  
+• ⚡ Fun fact: I am a kid  
 
 
 ## 📫 Reach me:
