@@ -32,6 +32,8 @@
 
 ![RKN's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKNpy&show_icons=true&theme=radical)
 
+
+
 # Public Repositories 
 
 ## #1 Multipurpose-discord-bot-template
@@ -40,6 +42,9 @@ Here is a free to use discord bot template's repo
 (you can even host this bot 24/7 guide provided).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RKNpy&repo=Multipurpose-discord-bot-template&show_owner=true&theme=radical)](https://github.com/RKNpy/Multipurpose-discord-bot-template)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNpy)](https://github.com/RKNpy/Multipurpose-discord-bot-template)
+
 
 ## I don't have that much public repos for now, working on public projects
 
