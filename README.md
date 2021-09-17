@@ -23,7 +23,7 @@
 • 🖥️ gdscript   
 
 ## Know more about me at:
-• [discord.bio](dsc.bio/rkn)    
+
 • [devbio.me](devbio.me/u/RKNpy)  
 
 
