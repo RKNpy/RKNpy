@@ -23,7 +23,7 @@
 
 ## Know more about me at:
 
-• [devbio.me](devbio.me/u/RKNpy)  
+• [devbio.me](https://devbio.me/u/rkn)  
 
 
 
