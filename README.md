@@ -39,12 +39,9 @@ Most used languages (on github):
 
 # Public Repositories 
 
-## #1 Multipurpose-discord-bot-template
+## #1 Go-Mod
 
-Here is a free to use discord bot template's repo 
-(you can even host this bot 24/7 guide provided).
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RKNpy&repo=Hactoberfest2021-discord.py-bot-challenge&show_owner=true&theme=radical)](https://github.com/RKNpy/Hactoberfest2021-discord.py-bot-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RKNpy&repo=go-mod&show_owner=true&theme=radical)](https://github.com/RKNpy/go-mod)
 
 
 
