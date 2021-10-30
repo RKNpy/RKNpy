@@ -31,7 +31,7 @@ Github Stats:
 
 ![RKN's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKNpy&show_icons=true&theme=radical&count_private=true)
 
-Most used languages (on github):
+Most used languages (Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.):
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNpy&layout=compact)](https://github.com/RKNpy/)
 
