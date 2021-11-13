@@ -19,7 +19,7 @@
 • Owner of [Harmonium Craft](https://harmonium.games)\
 • Managing events at [Mythpat](https://discord.gg/mythpat)\
 • Admin at [ERRIXX](https://discord.gg/f8shyKXApa)\
-• Admin at [The Dezire](https://discord.gg/VHJg773cg7)\
+• Admin at [The Dezire](https://discord.gg/VHJg773cg7)
 
 ## Languages I know:
 • 🐍 Python  
