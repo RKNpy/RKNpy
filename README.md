@@ -15,11 +15,11 @@
 ## 📫 Reach me:
 ![discord.com/app](https://discord.c99.nl/widget/theme-4/782128271876816906.png)
 
-• Moderator at [Mr. Random](https://discord.gg/YXqwjNM7Pm)
-• Owner of [Harmonium Craft](https://harmonium.games)
-• Managing events at [Mythpat](https://discord.gg/mythpat)
-• Admin at [ERRIXX](https://discord.gg/f8shyKXApa)
-• Admin at [The Dezire](https://discord.gg/VHJg773cg7)
+• Moderator at [Mr. Random](https://discord.gg/YXqwjNM7Pm)\
+• Owner of [Harmonium Craft](https://harmonium.games)\
+• Managing events at [Mythpat](https://discord.gg/mythpat)\
+• Admin at [ERRIXX](https://discord.gg/f8shyKXApa)\
+• Admin at [The Dezire](https://discord.gg/VHJg773cg7)\
 
 ## Languages I know:
 • 🐍 Python  
