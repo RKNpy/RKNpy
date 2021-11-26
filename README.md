@@ -1,9 +1,9 @@
-# Hey there, I am Ravi - aka [RKN](https://github.com/RKNpy) 👋
+# Hey there, I am [RKN](https://github.com/RKNpy) 👋
 
 ## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme)
 ## I am a Student, Developer!!
 
-• 🎰 I'm owner/developer of [CraftyCord](https://top.gg/bot/872418590840725504)  
+
 • 🎯 I'm trying to make some public projects, web templates   
 • 💼 I'm currently focusing on my youtube channel  
 • 🔭 I’m currently working on GoMod  
