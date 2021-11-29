@@ -6,7 +6,7 @@
 
 • 🎯 I'm trying to make some public projects, web templates   
 • 💼 I'm currently focusing on my youtube channel  
-• 🔭 I’m currently working on GoMod  
+• 🔭 I’m currently working on Erect  
 • 🌱 I’m currently learning Game Development  
 • 👯 I’m looking to collaborate on Python projects  
 • ⚡ Fun fact: I am a kid  
