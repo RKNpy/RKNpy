@@ -20,6 +20,7 @@
 • Managing events at [Mythpat](https://discord.gg/mythpat)\
 • Admin at [ERRIXX](https://discord.gg/f8shyKXApa)\
 • Admin at [The Dezire](https://discord.gg/VHJg773cg7)
+• Developer at [CraftLand](https://discord.gg/wtw7mjYJ7S)
 
 ## Languages I know:
 • 🐍 Python  
