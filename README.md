@@ -34,9 +34,13 @@ Most used languages (Note: Top languages is only a metric of the languages my pu
 
 # Public Repositories 
 
-## #1 Go-Mod
+## Go-Mod
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RKNpy&repo=go-mod&show_owner=true&theme=radical)](https://github.com/RKNpy/go-mod)
+
+## Discord bots commands collection
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RKNpy&repo=discord-bots-commands-collection&show_owner=true&theme=radical)](https://github.com/RKNpy/discord-bots-commands-collection)
 
 
 
