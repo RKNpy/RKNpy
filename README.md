@@ -28,7 +28,7 @@ Github Stats:
 
 Most used languages (Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.):
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNpy&layout=compact)](https://github.com/RKNpy/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNpy&layout=compact&count_private=true)](https://github.com/RKNpy/)
 
 
 
