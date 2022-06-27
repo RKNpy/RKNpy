@@ -1,4 +1,4 @@
-# Hey there, I am [RKN](https://github.com/RKNpy) 👋
+# Hey there, I am [RKN](https://github.com/rkn.why) 👋
 
 ## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme)
 ## I am a Student, Developer!!
@@ -24,11 +24,11 @@
 
 Github Stats:
 
-![RKN's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKNpy&show_icons=true&theme=radical&count_private=true)
+![RKN's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkn.why&show_icons=true&theme=radical&count_private=true)
 
 Most used languages (Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.):
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNpy&layout=compact&count_private=true)](https://github.com/RKNpy/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkn.why&layout=compact&count_private=true)](https://github.com/rkn.why/)
 
 
 
