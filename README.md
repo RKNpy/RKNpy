@@ -15,7 +15,7 @@
 ## 📫 Reach me:
 ![discord.com/app](https://discord.c99.nl/widget/theme-4/782128271876816906.png)
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/782128271876816906)](https://discord.com/users/782128271876816906)
 
 
 
