@@ -4,16 +4,12 @@
 ## I am a Student, Developer!!
 
 
-• 🎯 I'm trying to make some public projects, web templates   
-• 💼 I'm currently focusing on my youtube channel  
-• 🔭 I’m currently working on Erect  
+• 🎯 I'm trying to make some public projects
 • 🌱 I’m currently learning Game Development  
 • 👯 I’m looking to collaborate on Python projects  
-• ⚡ Fun fact: I am a kid  
 
 
 ## 📫 Reach me:
-![discord.com/app](https://discord.c99.nl/widget/theme-4/782128271876816906.png)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/782128271876816906)](https://discord.com/users/782128271876816906)
 
@@ -33,7 +29,5 @@ Most used languages (Note: Top languages is only a metric of the languages my pu
 
 
 
-
-## I don't have that much public repos for now, working on public projects
 
 
