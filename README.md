@@ -1,14 +1,15 @@
 # Hey there, I am [RKN](https://github.com/RakunaM) 👋
 
 ## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme)
-## I am a Student, Developer!!
+## A Student, Developer!!
 
 
-• 🎯 I'm trying to make some public projects
-• 🌱 I’m currently learning Game Development  
-• 👯 I’m looking to collaborate on Python projects  
+- • 🎯 Minecraft Developer
+- • 🐰 Learning how to deal with forge
+- • 🌱 Just started Game Development
+- • 🎟️ Posting Devlogs when FREE!
 
 
-## 📫 Reach me:
+## 📫 Reach me out:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/782128271876816906)](https://discord.com/users/782128271876816906)
