@@ -1,4 +1,7 @@
 <h2 align="center"> Hi 👋 , I'm RKN <br/></h2> 
+<p align="center">
+  <a href="https://github.com/RakunaM/RakunaM/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+RKN;I+am+a+High+School+Student;Web+Dev;Game+Dev;Bot+Dev;Block+Game+Lover+%3C3"></a>
+</p>
 <h3 align="center">Also known as "Rakuna" to other people. <br> <br>
   <a href="https://github.com/RakunaM" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RakunaM?label=Github%20followers&style=for-the-badge">
