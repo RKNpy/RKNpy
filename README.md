@@ -35,8 +35,8 @@ Let me introduce myself  :boy:
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <br>
-- 🔭 I’m currently working on Minecraft Mods and Video Game. Sometimes I try to work on some short personal projects of mine.
-- :art: <b>Hobby:</b> Managing Minecraft Events, watching MCC, HermitCraft, Stupid Web Serieses and BRACKEYS obviously. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
+- 🔭 I’m currently working on Minecraft Mods and Video Games. Sometimes I try to work on some short personal projects of mine.
+- :art: <b>Hobby:</b> Managing Minecraft Events, watching MCC, HermitCraft, Stupid Web Series and BRACKEYS obviously. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
         :beginner: Tech Enthusiasts <br>
