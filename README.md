@@ -3,9 +3,7 @@
   <a href="https://github.com/RakunaM" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RakunaM?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/RakunaM" target="_blank">
     <img src="https://visitor-badge.glitch.me/badge?page_id=readme" alt="views on github" />
-  </a>
   </h3>   
                              
                     
