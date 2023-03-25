@@ -1,4 +1,4 @@
-# Hey there, I am [RKN](https://github.com/whyrkn) 👋
+# Hey there, I am [RKN](https://github.com/RakunaM) 👋
 
 ## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme)
 ## I am a Student, Developer!!
@@ -12,22 +12,3 @@
 ## 📫 Reach me:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/782128271876816906)](https://discord.com/users/782128271876816906)
-
-
-
-
-## Stats:
-
-Github Stats:
-
-![RKN's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunaM&show_icons=true&theme=radical&count_private=true)
-
-Most used languages (Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.):
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakunaM&layout=compact&count_private=true)](https://github.com/whyrkn/)
-
-
-
-
-
-
