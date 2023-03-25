@@ -125,7 +125,7 @@ Since I’m having lots of spare time:watch:, I decided to take this time focusi
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- :snowflake: I've previously worked with many public communities as: <br>
+### :snowflake: I've previously worked with many public communities as: <br>
 - :star: [Mr. Random](https://discord.gg/mrrandom) <br> (Minecraft Development)
 - :star: [Mythpat](https://discord.gg/Mythpat) <br> (Event Management)
 - :star: [Orator](https://top.gg/bot/948637316145102868) <br> (Bot Development)
@@ -133,3 +133,15 @@ Since I’m having lots of spare time:watch:, I decided to take this time focusi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+<div align="center"> 
+  
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
+---
+</div
