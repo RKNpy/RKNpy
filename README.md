@@ -20,11 +20,11 @@
 
 Github Stats:
 
-![RKN's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyrkn&show_icons=true&theme=radical&count_private=true)
+![RKN's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunaM&show_icons=true&theme=radical&count_private=true)
 
 Most used languages (Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.):
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyrkn&layout=compact&count_private=true)](https://github.com/whyrkn/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakunaM&layout=compact&count_private=true)](https://github.com/whyrkn/)
 
 
 
