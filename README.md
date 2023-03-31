@@ -6,7 +6,8 @@
   <a href="https://github.com/RakunaM" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RakunaM?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=readme" alt="views on github" />
+      <img src="https://komarev.com/ghpvc/?username=rakunam" alt="views on github" />
+
   </h3>   
                              
                     
