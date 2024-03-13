@@ -10,26 +10,7 @@
 
   </h3>   
                              
-                    
-<details align="center"> 
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=RakunaM&theme=gruvbox"/>
-  </a>
-</p>
-</details>
-  
-  
-    
-  
-<details>
-   <summary>Github Stats of me:</summary>
-<div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RakunaM&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
-</div>
-</details> 
- 
+                  
 
  
 Let me introduce myself  :boy: 
@@ -109,7 +90,6 @@ Since I’m having lots of spare time:watch:, I decided to take this time focusi
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ### ⚡️ Fun fact about me: ✨ I love coding+learning+sleeping✨ 
  
 
 
@@ -118,11 +98,6 @@ Since I’m having lots of spare time:watch:, I decided to take this time focusi
 [![Discord Presence](https://lanyard.cnrad.dev/api/782128271876816906)](https://discord.com/users/782128271876816906)
 
 
-<br> <br>
-🌟 STAR THE REPOS IF YOU LIKE 🌟
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakunaM" alt="RakunaM" /></p>
-
 </div>
 
 
@@ -130,9 +105,11 @@ Since I’m having lots of spare time:watch:, I decided to take this time focusi
 
 
 ### :snowflake: I've previously worked with many public communities as: <br>
-- :star: [Mr. Random](https://discord.gg/mrrandom) <br> (Minecraft Development)
+- :star: [Mr. Random](https://discord.gg/mrrandom) <br> (Minecraft Development, Discord Bot Development, Community Management)
 - :star: [Mythpat](https://discord.gg/Mythpat) <br> (Event Management)
+- :star: [Dezire]() <br> (Artist Management)
 - :star: [Orator](https://top.gg/bot/948637316145102868) <br> (Bot Development)
+- :star: [Wex Mobile](https://www.youtube.com/watch?v=nrbv3i6P1EA) <br> (Community Management)
 - <i>Many more are coming soon...</i> :cupid:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
